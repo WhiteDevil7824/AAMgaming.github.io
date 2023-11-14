@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+    height: 550px;
+}
+button{
+    background-color: blue;
+    padding: 15px 40px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #666;
+}
+.button:hover{
+    background-color:#07a8d4 ;
+}
+.button:active{
+    background-color: #07a8d4;
+    box-shadow: 0 5px #b9dc07;
+    transform: translateY(4px);
+}
+b{
+    font-size: 40px;
+}

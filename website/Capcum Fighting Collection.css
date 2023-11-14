@@ -1,0 +1,36 @@
+*{
+    margin: 1px;
+    padding: 0px;
+    background-color: black;
+}
+body{
+    background-color: cyan;
+    height:1970px;
+}
+h1{
+    background-color: #FFC300;
+    font-weight: 300;
+    line-height: 1.6;
+    padding: 10px;
+    padding-left: 570px;
+}
+div{
+    background-color: black;
+}
+a{
+    padding-left: 1030px;
+}
+h4{
+    height: 50px;
+    margin: 0px;
+    padding:0px;
+}
+p{
+    padding-left: 500px;
+}
+img{
+    background-color: cyan;
+}
+u{
+    font-size: 50px;
+}
